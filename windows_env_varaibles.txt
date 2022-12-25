@@ -1,0 +1,8 @@
+-- Sample script to store env variables in windows -- 
+
+-- Commonly can be used with process.env.""variable name """ 
+
+
+$env:PORT=3000
+
+$env:<variable_name>=<variable_value>
